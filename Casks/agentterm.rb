@@ -1,6 +1,6 @@
 cask "agentterm" do
-  version "0.13.0"
-  sha256 "4cf3640fc6720db13c2e924d94531096d906d3a7cc8e414371982cb722d98719"
+  version "0.14.0"
+  sha256 "43bc1b072c47437dc64389fd6a465789f1e7817988a92f19b654e74f9685216e"
 
   url "https://github.com/manhpham90vn/AgentTerm/releases/download/v#{version}/AgentTerm-#{version}.dmg"
   name "AgentTerm"
