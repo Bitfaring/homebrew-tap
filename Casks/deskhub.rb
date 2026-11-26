@@ -1,11 +1,11 @@
 cask "deskhub" do
-  version "9.3.7"
-  sha256 "0d879ed8bfe3a881ab3a475c950f57f15be65e9694b240637c0cd75386b4b16d"
+  version "9.4.0"
+  sha256 "459abf63f16a9abb09f60d27ac2701efc3a1d387b144b303110d21514c4d5caa"
 
-  url "https://github.com/manhpham90vn/Deskhub/releases/download/v#{version}/deskhub-v#{version}-macos.dmg"
+  url "https://github.com/Bitfaring/Deskhub/releases/download/v#{version}/deskhub-v#{version}-macos.dmg"
   name "Deskhub"
   desc "LAN remote desktop - share and control screens"
-  homepage "https://github.com/manhpham90vn/Deskhub"
+  homepage "https://github.com/Bitfaring/Deskhub"
 
   depends_on macos: ">= :sonoma"
 
